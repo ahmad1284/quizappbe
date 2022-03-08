@@ -15,8 +15,8 @@
                 "question":"What is 1 + 1?",
                 "correct": "2",
                 "incorrect1":"3",
-                "incorrect1":"1",
-                "incorrect1":"11"
+                "incorrect2":"1",
+                "incorrect3":"11"
             }
           ]
     ],
