@@ -1,0 +1,26 @@
+{
+    "questions": [
+        [
+            {
+              "id":1,
+              "question": "Inside which HTML element do we put the JavaScript??",
+              "correct": "<script>",
+              "incorrect1": "<javascript>",
+              "incorrect2": "<js>",
+              "incorrect3": "<scripting>"
+              
+            },
+            {
+                "id" : 2,
+                "question":"What is 1 + 1?",
+                "correct": "2",
+                "incorrect1":"3",
+                "incorrect1":"1",
+                "incorrect1":"11"
+            }
+          ]
+    ],
+    "profile": {
+      "name": "ahmad"
+    }
+  }
